@@ -1,0 +1,66 @@
+[
+    {
+        "category": "math",
+        "activities": [
+            "logarithms",
+            "elliptic curves",
+            "integrals undefined",
+            "integrals defined"
+        ]
+    }, {
+        "category": "household",
+        "activities": [
+            "meal preparation",
+            "windexing mirrors",
+            "cleaning",
+            "dusting surfaces",
+            "making a grocery list"
+        ]
+    }, {
+        "category": "computer science",
+        "activities": [
+            "cyber security",
+            "artificial intelligence",
+            "databases",
+            "algorithms",
+            "data structures",
+            "programming languages"
+        ]
+    }, {
+        "category": "geography",
+        "activities": [
+            "italy",
+            "europe",
+            "earth",
+            "jupiter",
+            "Tokyo",
+            "Japan"
+        ]
+    }, {
+        "category": "history",
+        "activities": [
+            "industrial revolution",
+            "prohibitionism",
+            "middle ages",
+            "roman empire"
+        ]
+    }, {
+        "category": "programming languages",
+        "activities": [
+            "php",
+            "python",
+            "rust",
+            "javascript"
+        ]
+    }, {
+        "category": "operative systems",
+        "activities": [
+            "windows",
+            "mac os",
+            "linux",
+            "andorid",
+            "IOS",
+            "solaris"
+        ]
+    }
+]
