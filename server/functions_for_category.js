@@ -52,7 +52,7 @@ const createCategory = (req,res) => {
 
 const deleteCategories = (req,res) => {
   db.run("DELETE FROM category")
-  db.run("UPDATE SQLITE_SEQUENCE SET SEQ= '0' WHERE NAME='category'")
+  //db.run("UPDATE SQLITE_SEQUENCE SET SEQ= '0' WHERE NAME='category'")
   res.json({deleted: 'true'})
 }
 
